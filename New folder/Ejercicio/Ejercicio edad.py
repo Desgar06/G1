@@ -1,7 +1,7 @@
 nombre_usuario = input('Por favor, ingrese su nombre: ')
 edad_usuario = input('Por favor, ingrese su edad: ')
 
-print('¡Hola,', nombre_usuario + , 'Tienes', edad_usuario, 'años.')
+print('¡Hola,', nombre_usuario + 'Tienes', edad_usuario, 'años.')
 
 numero_ingresado = input('Ingrese un número por favor: ')
 numero_convertido = int(numero_ingresado)
